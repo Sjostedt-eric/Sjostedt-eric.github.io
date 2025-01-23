@@ -21,7 +21,7 @@ repository               : "Sjostedt-eric/Sjostedt-eric.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot_Sjostedt.jpg"
   name             : "Eric Sjöstedt"
   pronouns         : # example: "she/her"  
   bio              : "Researcher interested in hydrology, trade networks, complex adaptive systems, and geospatial data science "
