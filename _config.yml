@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Eric Sjöstedt"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher interested in hydrology, trade networks, complex adaptive systems, and geospatial data science "
   location         : "Flagstaff, AZ"
   employer         : "Northern Arizona University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ecs389@nau.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KObfutcAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7755-8091"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
